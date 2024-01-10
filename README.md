@@ -40,7 +40,7 @@ Run the program giving the brainfuck file.
 > Having the ASCII table will help you to understand the values.
 
 ```Brainfuck
-++++++++++ Increase the value of the pointer by 10. (ptr plus 0) = 10
+++++++++++ Increase the value of the pointer by 10 (ptr plus 0) = 10
 [ Begin of the scope of the loop
 It will end when the value of the pointer (ptr plus 0) is 0
 
